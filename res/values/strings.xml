@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Send Mail</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="send_mail_button_text">Send Mail</string>
+    <string name="error_text">Error - No handler for specified Intent!</string>
+    <string name="title_activity_welcome">Welcome Activity</string>
+    <string name="extra_email_text">daniel.rost@gmx.de</string>
+    <string name="extra_title_text">Lipsum</string>
+    <string name="extra_body_text">Lorem Ipsum Dolor Sit Amet</string>
+    <string name="extra_cc_text">daniel.rost@example.com</string>
+
+</resources>
