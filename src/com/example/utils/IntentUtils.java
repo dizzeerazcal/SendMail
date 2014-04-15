@@ -15,5 +15,5 @@ public class IntentUtils {
 				intent, PackageManager.MATCH_DEFAULT_ONLY);
 		// If list contains elements, return true
 		return activities.size() > 0;
-	}
+	} //Git Test
 }
